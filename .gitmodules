@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "refund"]
-	path = refund
-	url = https://github.com/cran/refund
 [submodule "registr"]
 	path = registr
 	url = https://github.com/julia-wrobel/registr
