@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mxfda"]
+	path = mxfda
+	url = https://github.com/julia-wrobel/mxfda
 [submodule "registr"]
 	path = registr
 	url = https://github.com/julia-wrobel/registr
