@@ -5,3 +5,6 @@
 [submodule "mxfda"]
 	path = mxfda
 	url = https://github.com/julia-wrobel/mxfda
+[submodule "registr"]
+	path = registr
+	url = https://github.com/julia-wrobel/registr
